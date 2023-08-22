@@ -1,16 +1,17 @@
-# test_app
 
-A new Flutter project.
+# Meal App In Flutter
 
-## Getting Started
+This is the simply meal app which I made during I was learning flutter. It contains the following feature
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Side Drawer
+- Filter
+- Mark meal as favorite
+- Multi Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+
+Insert gif or link to demo
+
